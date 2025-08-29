@@ -287,7 +287,7 @@ describe('Cleaning Rules - Comprehensive Unit Tests', () => {
 │  \x1b[32m$ npm install\x1b[0m  │
 ├────────────────┤
 │    Installing...    │
-│  "[\"package1\",\"package2\"]"  │
+│  "["package1","package2"]"  │
 └────────────────┘
 
 
@@ -337,8 +337,8 @@ bash: Done!`;
 │  └─────────────┘     │
 │                      │
 │  Content here        │
-│  "[\"item1\",          │
-│    \"item2\"]"         │
+│  "["item1",          │
+│    "item2]"         │
 ╰──────────────────────╯
 
 
